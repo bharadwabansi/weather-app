@@ -13,6 +13,7 @@ ML predictions:
 🌧 Rain Tomorrow (Yes/No + Confidence)
 
 🌡 Temperature Tomorrow
+
 💧 Humidity Tomorrow
 
 🌥 Weather Condition (optional)
@@ -61,6 +62,7 @@ app.py
 model.py
 requirements.txt
 README.md
+
 ▶️ Run Locally
 pip install -r requirements.txt
 streamlit run app.py
