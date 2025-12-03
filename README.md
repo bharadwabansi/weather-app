@@ -70,4 +70,4 @@ streamlit run app.py
 🌐 Deployment
 
 Hosted easily on Streamlit Cloud:
-Connect GitHub → Select repo → Deploy.
+https://weather-app-7g95pv7eawidv4z7wxzj2d.streamlit.app/
